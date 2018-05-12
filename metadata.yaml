@@ -1,0 +1,40 @@
+_repo: La-kolomba-premio_35981
+_version: 0.1.0
+alternative_title: Le prix de pigeons. Esperanto
+contributor:
+  translator:
+    agent_name: Papot, Bénédict
+    aliases:
+    - Papot, Benedict
+    - Parot, Benedict
+    gutenberg_agent_id: '38015'
+    url: http://www.gutenberg.org/2009/agents/38015
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas fils, Alexandre
+    - Dumas, A. (Alexandre)
+    birthdate: 1824
+    deathdate: 1895
+    gutenberg_agent_id: '672'
+    url: http://www.gutenberg.org/2009/agents/672
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_fils
+description: 'Translation of: Le prix de pigeons'
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2011-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35981'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: La kolomba premio
+url: http://www.gutenberg.org/ebooks/35981
