@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/672
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_fils
 description: 'Translation of: Le prix de pigeons'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35981#La-kolomba-premio
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2011-04-27'
 gutenberg_type: Text
